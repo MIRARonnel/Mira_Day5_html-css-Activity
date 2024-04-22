@@ -1,0 +1,127 @@
+    body {
+    
+    margin: 0;
+    padding: 0;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJI5oBe6o1hlYXqlilg8HoQwHQ6Yh0fubG9KRiqebrhg&s');
+    background-size: cover;
+    
+    }
+
+    header{
+        background-color: #26545ae8 ;   
+    }      
+    
+    h1{
+        letter-spacing: 10px;
+        color: #ffffff;
+        font-size: 50px;
+        margin-left: 150px;
+        padding-bottom: 0px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 0%;
+        font-weight: bold;
+        text-shadow: 20px -15px 5px #1d224b;
+        
+    }
+
+    h2{
+        letter-spacing: 10px;
+        color: #ffffff;
+        font-size: 50px;
+        text-align: center;
+    }
+
+    h3{
+        
+        color: #ffffff;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    h3 p{
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px;
+        text-align: left;
+    }
+    nav ul{
+        list-style-type: none;
+        padding: 0;
+        margin: 10px;
+        
+    }
+
+    nav ul{
+        
+        list-style-type: none;
+        padding: 0;
+        margin: 0px;
+        text-align: right;
+        }
+        nav ul li{
+        
+        display: inline;
+        margin-right: 50px;
+        }
+
+        nav ul li a{
+        color: white;
+        text-decoration: none;
+        }
+
+
+    img{
+        padding-top: 0px;
+        height:300px;
+        width:300px; 
+        margin-left: 200px;
+        border-radius: 1000px;
+        border-style:outset;
+        border-right: 50px dashed blue;
+        border: 5px black inset;
+        margin-top: 3px;
+        padding-right: 20px, 100px;
+         }
+        
+    footer p{
+        color: #ffffff;
+        background-color: #26545ae8;
+        font-size: 12px;
+        /* margin: 0;
+        padding: 0px; */
+        
+    }
+    footer {
+
+        font-size: 8px;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        
+        
+    }
+
+    div ul{
+        
+        list-style-type: none;
+        padding: 0;
+        margin-right: 250px;
+        text-align: right;
+        font-size: 20px;
+        }
+        div ul li{
+        
+        display: inline;
+        margin-right: 50px;
+        }
+
+        div ul li a{
+        color: white;
+        text-decoration: none;
+        }
+    
+        div img .video{
+            margin-right: 30;
+            place-content: right;
+        }
+        
